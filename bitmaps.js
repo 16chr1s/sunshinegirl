@@ -1,4 +1,4 @@
-var bitmaps = {
+var gamebitmaps = {
     HinaIdle: [{'!': '87, 90, 115',
   '#': '173, 147, 166',
   '$': '67, 69, 128',
