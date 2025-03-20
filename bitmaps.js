@@ -1,4 +1,4 @@
-var gamebitmaps = {
+var gameBitmaps = {
     HinaIdle: [{'!': '87, 90, 115',
   '#': '173, 147, 166',
   '$': '67, 69, 128',
@@ -1290,3 +1290,4 @@ var gamebitmaps = {
       'dddddddddddddddddddddddddddddddd']]
 
 };
+var test = 0.423;
