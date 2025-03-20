@@ -1,3 +1,4 @@
+var test2 = 0.3456678
 var gameBitmaps = {
     HinaIdle: [{'!': '87, 90, 115',
   '#': '173, 147, 166',
